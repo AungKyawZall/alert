@@ -1,0 +1,1 @@
+console.log("Min ga Lar Par");
